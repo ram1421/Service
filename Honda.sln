@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honda", "Honda\Honda.csproj", "{D39A3B89-7921-46BD-9C72-4556F8133FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honda.Civic", "Honda.Civic\Honda.Civic.csproj", "{5F07416D-008C-4074-BB56-11A8E1CEC9D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honda.Accord", "Honda.Accord\Honda.Accord.csproj", "{7C1689A9-4152-445A-BA85-5AE8D500A13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39A3B89-7921-46BD-9C72-4556F8133FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39A3B89-7921-46BD-9C72-4556F8133FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39A3B89-7921-46BD-9C72-4556F8133FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39A3B89-7921-46BD-9C72-4556F8133FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F07416D-008C-4074-BB56-11A8E1CEC9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F07416D-008C-4074-BB56-11A8E1CEC9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F07416D-008C-4074-BB56-11A8E1CEC9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F07416D-008C-4074-BB56-11A8E1CEC9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1689A9-4152-445A-BA85-5AE8D500A13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1689A9-4152-445A-BA85-5AE8D500A13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1689A9-4152-445A-BA85-5AE8D500A13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1689A9-4152-445A-BA85-5AE8D500A13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
